@@ -2,3 +2,5 @@ este es un documento de prueba.
 curso de git en platzi.
 
 documento realizado por Marco Alfaro.
+
+hablaremos de su vida.
