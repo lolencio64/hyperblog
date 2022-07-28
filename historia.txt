@@ -1,3 +1,4 @@
-este es un documento de prueba
-.
+este es un documento de prueba.
 curso de git en platzi.
+
+documento realizado por Marco Alfaro.
