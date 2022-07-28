@@ -3,4 +3,4 @@ curso de git en platzi.
 
 documento realizado por Marco Alfaro.
 
-hablaremos de su vida.
+hablaremos de su vida y su obra.
