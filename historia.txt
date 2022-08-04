@@ -2,7 +2,9 @@ este es un documento de prueba
 .
 curso de git en platzi.
 
-Mañana nos enfocaremos en su vida laboral.  
+Mañana nos enfocaremos en su vida laboral. 
+
+Experimento 1
 
 Master 1
 
